@@ -1,4 +1,4 @@
-<img width="1920" height="1032" alt="Cover" src="https://github.com/user-attachments/assets/0301c82d-4e59-4b29-99c6-041023c1b05e" />
+<img width="1685" height="800" alt="Cover" src="https://github.com/user-attachments/assets/52c61b65-00e3-450e-833c-2b8d86ee7dcd" />
 
 # 🖥️ SYS IO
 
